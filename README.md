@@ -7,4 +7,4 @@
 
 I get inspired by:
 - **Georgia Lupi** - http://giorgialupi.com/
-- **Shirly Wu** (to whom I am thankful sharing the name of the tools used for her vizualisations) - https://shirleywu.studio/
+- **Shirley Wu** (to whom I am thankful sharing the name of the tools used for her vizualisations) - https://shirleywu.studio/
